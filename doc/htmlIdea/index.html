@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>This is Log output </title>
+<style>
+
+.bordered {
+	border: dotted 2px black;
+	width: 85%;
+	margin: 6px 3px;
+	margin-left: Auto;
+	margin-right: Auto;
+	padding: 4px;
+}
+.fatal {
+	background-color: #876bb6;
+	color: wheat;
+ }
+.error {
+	background-color: #f88989;
+ }
+.warning {
+		background-color: #ffffcc;
+    }
+
+.info {
+        background-color: #ffccff;
+      }
+.debug {
+		background-color: #ccffcc;
+	}
+.coolness {
+		background-color: #ccccff;
+	}
+.timestmp {
+	text-align : right;
+	font-size : 0.70em;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="bordered fatal">
+File: filePath <br>
+Function: functionName <br>
+LineNo : 304
+<hr>
+this is a Warning message
+<hr>
+<div class="timestmp">12/5/23</div>
+</div>
+
+<div class="bordered error">
+this is a Warning message
+</div>
+
+<div class="bordered warning">
+this is a Warning message
+</div>
+
+<div class="bordered info">
+this is a Warning message
+</div>
+
+<div class="bordered debug">
+this is a Warning message
+</div>
+
+<div class="bordered coolness">
+this is a Warning message
+</div>
+
+
+</body>
+
+</html>

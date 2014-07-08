@@ -1,0 +1,53 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=main.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=ChronicleLogger
+
+[WINDOWS]
+main="ChronicleLogger","index.hhc","index.hhk","main.html","main.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+main.html
+Calendar_8h_source.html
+ChronicleLogger_8h_source.html
+Console_8h_source.html
+DiskFile_8h_source.html
+Html_8h_source.html
+LevelManager_8h_source.html
+LogFormatter_8h_source.html
+OutputDevice_8h_source.html
+PlainText_8h_source.html
+ThreadLocker_8h_source.html
+annotated.html
+classes.html
+hierarchy.html
+functions.html
+functions_func.html
+inherits.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Calendar.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Calendar-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1ChronicleLogger.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1ChronicleLogger-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Console.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Console-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1DiskFile.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1DiskFile-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Html.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1Html-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1LevelManager.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1LevelManager-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1OutputDevice.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1OutputDevice-members.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1PlainText.html
+classcom_1_1afrigis_1_1util_1_1logsystem_1_1PlainText-members.html
+graph_legend.html
+files.html
+tabs.css
+tab_b.gif
+tab_l.gif
+tab_r.gif

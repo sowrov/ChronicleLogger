@@ -1,0 +1,804 @@
+Last Compile Time: Mar 29 2010 16:02:47
+Logging Started on this OutDevice at: 29 March 2010 16:03:14
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 0
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 0
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 1
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 1
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 2
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 2
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 3
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 3
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 4
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 4
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 5
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 5
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 6
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 6
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 7
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 7
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 8
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 8
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 9
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 9
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 10
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 10
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 11
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 11
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 12
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 12
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 13
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 13
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 14
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 14
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 15
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 15
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 16
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 16
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 17
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 17
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 18
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 18
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 19
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 19
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 20
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 20
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 21
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 21
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 22
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 22
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 23
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 23
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 24
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 24
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 25
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 25
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 26
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 26
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 27
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 27
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 28
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 28
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 29
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 29
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 30
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 30
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 31
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 31
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 32
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 32
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 33
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 33
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 34
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 34
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 35
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 35
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 36
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 36
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 37
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 37
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 38
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 38
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 39
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 39
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 40
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 40
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 41
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 41
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 42
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 42
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 43
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 43
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 44
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 44
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 45
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 45
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 46
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 46
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 47
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 47
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 48
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 48
+---------------------------
+
+------- Fatal Error -------
+File:.\src\test\_main.cpp
+Line No:25 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a fatal error test 49
+---------------------------
+
+------- Critical Error -------
+File:.\src\test\_main.cpp
+Line No:26 function:main()
+Time: 29 March 2010 16:03:14
+
+Cause: This is a critical error 49
+---------------------------
+
+--------------------------------Logging Complete-------------------------------

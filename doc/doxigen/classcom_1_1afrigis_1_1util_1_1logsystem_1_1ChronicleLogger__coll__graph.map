@@ -1,0 +1,12 @@
+<area shape="rect" title="logger" alt="" coords="645,55,653,63">
+<area shape="rect" title="logger" alt="" coords="776,55,784,63">
+<area shape="rect" href="$classcom_1_1afrigis_1_1util_1_1logsystem_1_1LevelManager.html" title="com::afrigis::util::logsystem::LevelManager" alt="" coords="168,8,443,35">
+<area shape="rect" title="levelManager" alt="" coords="409,31,417,39">
+<area shape="rect" title="levelManager" alt="" coords="604,55,612,63">
+<area shape="rect" title="currentLevel" alt="" coords="41,17,49,25">
+<area shape="rect" title="currentLevel" alt="" coords="164,17,172,25">
+<area shape="rect" title="format" alt="" coords="437,68,445,76">
+<area shape="rect" title="format" alt="" coords="567,68,575,76">
+<area shape="rect" href="$classcom_1_1afrigis_1_1util_1_1logsystem_1_1OutputDevice.html" title="com::afrigis::util::logsystem::OutputDevice" alt="" coords="169,109,441,136">
+<area shape="rect" title="device" alt="" coords="408,105,416,113">
+<area shape="rect" title="device" alt="" coords="607,81,615,89">

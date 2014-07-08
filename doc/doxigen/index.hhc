@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Calendar"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Calendar.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::ChronicleLogger"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1ChronicleLogger.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Console"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Console.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::DiskFile"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1DiskFile.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Html"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Html.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::LevelManager"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1LevelManager.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::OutputDevice"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1OutputDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::PlainText"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1PlainText.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Calendar"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Calendar.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::ChronicleLogger"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1ChronicleLogger.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::LevelManager"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1LevelManager.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::LogFormatter"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Html"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Html.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::PlainText"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1PlainText.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::OutputDevice"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1OutputDevice.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::Console"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1Console.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com::afrigis::util::logsystem::DiskFile"><param name="Local" value="classcom_1_1afrigis_1_1util_1_1logsystem_1_1DiskFile.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Graphical Class Hierarchy"><param name="Local" value="inherits.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Calendar.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="ChronicleLogger.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Console.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="DiskFile.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Html.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="LevelManager.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="LogFormatter.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="OutputDevice.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="PlainText.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="ThreadLocker.h"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
